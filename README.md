@@ -26,4 +26,5 @@ Illustration
 There’s no such thing as a Google Ads campaign that doesn’t work — there are only ones that need a bit more work. Using the strategy and information provided below, you have what you need to create a successful Google Ad campaign that drives clicks and converts leads.
 
 Find this and more projects on my contra profile
-<div class="contra-hire-me-button" data-analyticsUserId="46304b99-80e6-4e2c-8f99-dd4c07abe397" data-theme="light" data-username="santiago_rodriguez"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
+https://contra.com/santiago_rodriguez
